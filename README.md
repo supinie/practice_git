@@ -2,12 +2,12 @@
 
 This repo is aimed at teaching the basics of git/github. This will include:
 
-- [ ] cloning a repository
-- [ ] branching
-- [ ] making changes
-- [ ] staging
-- [ ] commiting
-- [ ] pushing
-- [ ] pull requests
-- [ ] stashing
-- [ ] rebasing/resolving conflicts
+- [x] cloning a repository
+- [x] branching
+- [x] making changes
+- [x] staging
+- [x] commiting
+- [x] pushing
+- [x] pull requests
+- [x] stashing
+- [x] rebasing/resolving conflicts
