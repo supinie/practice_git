@@ -9,5 +9,9 @@ This repo is aimed at teaching the basics of git/github. This will include:
 - [X] commiting
 - [X] pushing
 - [X] pull requests
-- [ ] stashing
-- [ ] rebasing/resolving conflicts
+- [X] stashing
+- [X] rebasing/resolving conflicts
+
+my notes:
+
+this is how you do something
